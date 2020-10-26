@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pigsterchurn.github.io/blog</id>
+    <title>Pigster Churn Blog</title>
+    <updated>2020-06-12T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pigsterchurn.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Pigster Churn news and events.</subtitle>
+    <logo>https://pigsterchurn.github.io/img/logo4.png</logo>
+    <rights>Copyright © 2020 Pigster Churn</rights>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Clay]]></title>
+        <id>https://pigsterchurn.github.io/blog/2020/06/12/goodbye-clay.html</id>
+        <link href="https://pigsterchurn.github.io/blog/2020/06/12/goodbye-clay.html"/>
+        <updated>2020-06-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Some background context first - I've been playing the Animal Crossing series since 2013, starting from Animal Crossing: New Leaf on the 3DS. Villagers leaving was supposed to be a thing that I should already be used to, having quite a number of them leaving in my old game and even a few in my current Animal Crossing: New Horizons game.</p>
+<p>I started my Animal Crossing: New Horizons journey on launch day (20 Mar 2020), and had about 5 villagers leaving my island so far:</p>
+<ul>
+<li>April 7 - Sheldon left</li>
+<li>April 9 - Bertha left</li>
+<li>April 24 - O'Hare left</li>
+<li>May 11 - Moe left</li>
+<li>May 13 - Mint left</li>
+</ul>
+<p>Somehow I didn't really have very strong attachment to any of them, as most of them only stayed for barely a month. But now...</p>
+]]></summary>
+        <author>
+            <name>Piggy</name>
+            <email/>
+            <uri/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Version 1.0.0]]></title>
+        <id>https://pigsterchurn.github.io/blog/2017/10/24/new-version-1.0.0.html</id>
+        <link href="https://pigsterchurn.github.io/blog/2017/10/24/new-version-1.0.0.html"/>
+        <updated>2017-10-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <email/>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding RSS Support]]></title>
+        <id>https://pigsterchurn.github.io/blog/2017/09/26/adding-rss.html</id>
+        <link href="https://pigsterchurn.github.io/blog/2017/09/26/adding-rss.html"/>
+        <updated>2017-09-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <email/>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
+        <id>https://pigsterchurn.github.io/blog/2017/09/25/testing-rss.html</id>
+        <link href="https://pigsterchurn.github.io/blog/2017/09/25/testing-rss.html"/>
+        <updated>2017-09-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <email/>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Blog Post]]></title>
+        <id>https://pigsterchurn.github.io/blog/2017/04/10/blog-post-two.html</id>
+        <link href="https://pigsterchurn.github.io/blog/2017/04/10/blog-post-two.html"/>
+        <updated>2017-04-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <email/>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog Title]]></title>
+        <id>https://pigsterchurn.github.io/blog/2016/03/11/blog-post.html</id>
+        <link href="https://pigsterchurn.github.io/blog/2016/03/11/blog-post.html"/>
+        <updated>2016-03-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <email/>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+</feed>
