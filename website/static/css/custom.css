@@ -1,0 +1,144 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+ 
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+    .container.paddingTop {
+        padding-top: 10px;
+    }
+    
+    .container.paddingBottom {
+        padding-bottom: 40px;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+.customHeader {
+    margin-top: 0;
+}
+
+.mainContainer.shrink{
+    padding: 0px;
+}
+
+
+.homeContainer {
+    text-align: left;
+    background: url(/img/pig-bg.png);
+}
+
+.projectTitle {
+    margin-top: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+.blockText {
+    text-align: left;
+}
+
+.buttonRow {
+    display: flex;
+}
+
+.buttonRow .buttonWrapper {
+    margin-right: 8px;
+}
+
+.cols {
+    padding-top: 20px;
+    display: grid;
+    grid-column-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.whiteBackground {
+    background: white;
+}
+
+.updates {
+    display: flex;
+}
+
+.updates > a:not(last-child) {
+    margin-right: 8px;
+}
+
+.blogSocialSection {
+    padding: 8px 0;
+}
+
+.game-card-body.extra {
+    max-width: 400px;
+}
+
+/* for the card */
+.gamesContainer h1{
+    margin-top: 0px;
+}
+.game-card-body {
+    margin-bottom: 20px;
+    cursor: pointer;
+    max-width: 345px;
+    overflow: hidden;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.game-card-body img {
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    object-fit: cover;
+    height: 140px;
+}
+.game-card-body .game-card-segment {
+    padding: 16px;
+}
+
+.game-card-body .game-card-segment .title{
+    margin-bottom: 0.35em;
+    font-size: 1.5rem;
+    line-height: 1.334;
+    letter-spacing: 0em;
+}
+.game-card-body .game-card-segment .text{
+    color: #5e5e5e;
+}
+.game-grid {
+    display: grid;
+    /* align-items: center; */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 345px));
+    grid-gap: 1rem;
+}
+
+.ripple {
+    background-position: center;
+    transition: background 0.8s;
+}
+.ripple:hover {
+    background: #f0f0f0 radial-gradient(circle, transparent 1%, #f0f0f0 1%) center/15000%;
+}
+.ripple:active {
+    background-color: #dfdfdf;
+    background-size: 100%;
+    transition: background 0s;
+}
